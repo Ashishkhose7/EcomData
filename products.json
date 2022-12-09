@@ -1,0 +1,232 @@
+[
+    {
+       "id":1,
+        "Product_name":"speacial cotton shirt for men",
+        "Category":"Men's fashion",
+        "Category_id":1,
+        "Price":299,
+        "Image":"https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/f/b/s-all-rbc-white-one-nb-nicky-boy-original-imagjz5bh3thf59u.jpeg?q=70",    
+        "rating":4.5   
+
+    },
+    {
+       "id":2,
+        "Product_name":"high quality men skinny blue jeans",
+        "Category":"Men's fashion",
+        "Category_id":1,
+        "Price":899,
+        "Image":"https://rukminim1.flixcart.com/image/612/612/k34rki80/t-shirt/s/w/m/l-poly-510-12-14-tqh-original-imafkyg8nghr2v8h.jpeg?q=70",
+        "rating":4.1
+    },
+    {
+       "id":3,
+        "Product_name":"round neck mens t shirts",
+        "Category":"Men's fashion",
+        "Category_id":1,
+        "Price":1299,
+        "Image":"https://rukminim1.flixcart.com/image/612/612/kf1fo280hlty2aw-0/t-shirt/x/7/i/-original-imafdfvvz65ab7vm.jpeg?q=70",
+        "rating":4.2
+    },
+    {
+       "id":4,
+        "Product_name":"casual t shirt for men",
+        "Category":"Men's fashion",
+        "Category_id":1,
+        "Price":659,
+        "Image":"https://rukminim1.flixcart.com/image/612/612/l1grgcw0/t-shirt/x/o/5/m-t428hs-tm5p-eyebogler-original-imagdf2egzjxeqgk.jpeg?q=70",
+        "rating":3.9
+    },
+    {
+       "id":5,
+        "Product_name":"mens cotton jacket",
+        "Category":"Men's fashion",
+        "Category_id":1,
+        "Price":2999,
+        "Image":"https://rukminim1.flixcart.com/image/612/612/l16rde80/shirt/4/y/y/xxl-st2-vebnor-original-imagcsujaggmjyux.jpeg?q=70",
+        "rating":4.0
+    },
+    {
+        "id":6,
+         "Product_name":"speacial cotton shirt for girls",
+         "Category":"Girl's fashion",
+         "Category_id":2,
+         "Price":299,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/kp4difk0/top/r/m/f/s-top-2-brucella-original-imag3fhuvzsm28z6.jpeg?q=70",    
+         "rating":4.5   
+ 
+     },
+     {
+        "id":7,
+         "Product_name":"high quality girls skinny blue jeans",
+         "Category":"Girl's fashion",
+         "Category_id":2,
+         "Price":1299,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/kj7gwi80-0/top/b/l/g/l-117tkr2636-selvia-original-imafytvnzca5cyrd.jpeg?q=70",
+         "rating":4.1
+     },
+     {
+        "id":8,
+         "Product_name":"round neck girls t shirts",
+         "Category":"Girl's fashion",
+         "Category_id":2,
+         "Price":1499,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/l05lx8w0/top/z/g/l/xl-cb-137-pink-chokhi-bandhni-original-imagcygsathhga6s.jpeg?q=70",
+         "rating":4.2
+     },
+     {
+        "id":9,
+         "Product_name":"casual t shirt for girls",
+         "Category":"Girl's fashion",
+         "Category_id":2,
+         "Price":899,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/k3ncakw0pkrrdj/top/z/y/q/3xl-mt87-oomph-original-imafmgd8xmdkwyqd.jpeg?q=70",
+         "rating":3.9
+     },
+     {
+        "id":10,
+         "Product_name":"girls cotton jacket",
+         "Category":"Girl's fashion",
+         "Category_id":2,
+         "Price":1259,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/kp4difk0/top/s/b/e/l-top-1-brucella-original-imag3ff3yrkeevbu.jpeg?q=70",
+         "rating":4.0
+     },
+     {
+        "id":11,
+         "Product_name":"SAMSUNG Galaxy F13",
+         "Category":"Smartphones",
+         "Category_id":3,
+         "Price":28299,
+         "Image":"https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/f/n/f/-original-imaggbtuwq32w4et.jpeg?q=90",    
+         "rating":4.5   
+ 
+     },
+     {
+        "id":12,
+         "Product_name":"Infinix Hot 12 Play",
+         "Category":"Smartphones",
+         "Category_id":3,
+         "Price":11999,
+         "Image":"https://rukminim1.flixcart.com/image/300/300/ku04o7k0/mobile/p/8/u/9i-sport-mzb0a5iin-redmi-original-imag785qegs5ghyy.jpeg?q=90",
+         "rating":4.1
+     },
+     {
+        "id":13,
+         "Product_name":"MOTOROLA G22",
+         "Category":"Smartphones",
+         "Category_id":3,
+         "Price":14599,
+         "Image":"https://rukminim1.flixcart.com/image/300/300/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q=90",
+         "rating":4.2
+     },
+     {
+        "id":14,
+         "Product_name":"VIVO T1X (Space Blue, 64GB",
+         "Category":"Smartphones",
+         "Category_id":3,
+         "Price":8899,
+         "Image":"https://rukminim1.flixcart.com/image/300/300/l0igvww0/mobile/r/q/m/-original-imagca5ajerqpfjy.jpeg?q=90",
+         "rating":3.9
+     },
+     {
+        "id":15,
+         "Product_name":"OPPO K10 5G",
+         "Category":"Smartphones",
+         "Category_id":3,
+         "Price":12459,
+         "Image":"https://rukminim1.flixcart.com/image/300/300/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg?q=90",
+         "rating":4.0
+     },
+     {
+        "id":16,
+         "Product_name":"Double Door Refrigerator",
+         "Category":"Home_appliances",
+         "Category_id":4,
+         "Price":27899,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/xif0q/refrigerator-new/4/8/m/-original-imagkgpqtfknhqfg.jpeg?q=70",    
+         "rating":4.5   
+ 
+     },
+     {
+        "id":17,
+         "Product_name":"Philips ATON Juicer",
+         "Category":"Home_appliances",
+         "Category_id":4,
+         "Price":2899,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/l5jxt3k0/mixer-grinder-juicer/o/y/5/-original-imagg7gyvx7byev7.jpeg?q=70",
+         "rating":4.1
+     },
+     {
+        "id":18,
+         "Product_name":"Philips Cups Coffee Maker",
+         "Category":"Home_appliances",
+         "Category_id":4,
+         "Price":4599,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/coffee-maker/b/d/a/preethi-cafe-zest-cm-212-cm210-original-imaehsr6kgtcsbw3.jpeg?q=70",
+         "rating":4.2
+     },
+     {
+        "id":19,
+         "Product_name":"Crompton Window Air Cooler",
+         "Category":"Home_appliances",
+         "Category_id":4,
+         "Price":899,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/k66sh3k0/air-cooler/s/g/9/ozone-chill-crompton-original-imafzpjzzrwswgm8.jpeg?q=70",
+         "rating":3.9
+     },
+     {
+        "id":20,
+         "Product_name":"SAMSUNG 8kg With AI Control",
+         "Category":"Home_appliances",
+         "Category_id":4,
+         "Price":21999,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/k7f34i80/washing-machine-new/h/y/j/ww60r20glma-tl-samsung-original-imafpns894qh5zta.jpeg?q=70",
+         "rating":4.0
+     },
+     {
+        "id":21,
+         "Product_name":"HP Athlon Dual Core Laptop",
+         "Category":"Electronics",
+         "Category_id":5,
+         "Price":299,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",    
+         "rating":4.5   
+ 
+     },
+     {
+        "id":22,
+         "Product_name":"SAMSUNG Crystal 4K Ulra HD",
+         "Category":"Electronics",
+         "Category_id":5,
+         "Price":1299,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/l47cu4w0/television/v/9/l/-original-imagf5qugwkqdvfg.jpeg?q=70",
+         "rating":4.1
+     },
+     {
+        "id":23,
+         "Product_name":"Apple 5th gen 64gb Tablet",
+         "Category":"Electronics",
+         "Category_id":5,
+         "Price":1499,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/l0jwbrk0/tablet/9/a/n/-original-imagcbjsseuyg4z5.jpeg?q=70",
+         "rating":4.2
+     },
+     {
+        "id":24,
+         "Product_name":"Microsoft Xbox Series X",
+         "Category":"Electronics",
+         "Category_id":5,
+         "Price":58899,
+         "Image":"https://rukminim1.flixcart.com/image/612/612/l3ahpjk0/gamingconsole/i/a/s/512-series-s-console-xbox-yes-original-imagefyezzbe3rrj.jpeg?q=70",
+         "rating":4.9
+     },
+     {
+        "id":25,
+         "Product_name":"Acer Nitro Gaming Monitor",
+         "Category":"Electronics",
+         "Category_id":5,
+         "Price":22259,
+         "Image":"https://rukminim1.flixcart.com/image/312/312/l432ikw0/monitor/o/j/t/qg241y-full-hd-23-8-um-qq1ss-001-acer-original-imagf2cbq6wwrdzg.jpeg?q=70",
+         "rating":4.5
+     }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Men's fashion"
+    },
+    {
+        "id":2,
+        "category":"Girl's fashion"
+    },
+    {
+        "id":3,
+        "category":"Smatphones"
+    },
+    {
+        "id":4,
+        "category":"Home appliance"
+    },
+    {
+        "id":5,
+        "category":"Electronics"
+    }
+]
