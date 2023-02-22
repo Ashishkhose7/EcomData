@@ -1,7 +1,7 @@
 [
     {
        "id":1,
-        "Product_name":"speacial cotton shirt for men",
+        "Product_nm":"speacial cotton shirt for men",
         "Category":"Men's fashion",
         "Category_id":1,
         "Price":299,
